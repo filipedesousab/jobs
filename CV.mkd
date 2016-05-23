@@ -1,13 +1,98 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estágio em T.I e Devops
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Filipe de Sousa Botelho
+
+
+______________________________________________________________________________________
+Dados Pessoais
+
+Nascimento 	21/07/1993 - Recife/PE - Brasil
+
+Endereço residencial	
+Rua Paraná, 160 B
+Socorro - Jaboatão Dos Guararapes
+54160-660, PE - Brasil
+Telefone: 81 3082-2022
+ 81 99692-7685
+	
+Endereços eletrônicos		
+	E-mail para contato : filipedesousab@gmail.com
+	E-mail alternativo : filipegame07@gmail.com
+	LinkedIn: linkedin.com/in/filipedesousab
+
+
+______________________________________________________________________________________
+Objetivo
+	Estagiar na área de TI, preferencialmente com desenvolvimento de softwares/hardware ou suporte a servidores, onde eu possa adquirir conhecimentos profissionais na área.
+
+
+______________________________________________________________________________________
+Formação Acadêmica/Titulação
+
+2010 - 2011 		Ensino Médio (2o grau). 
+		Escola de Referência Senador Paulo Pessoa Guerra, ESPPG, Brasil
+
+
+______________________________________________________________________________________
+Formação complementar
+
+2015		Cursando Linux Intermediário
+	Entidade: Projeto Linux Brasil
+
+2015	Cursando Superior em Ciência da Computação
+	Entidade: Faculdade dos Guararapes
+
+2012 - 2014	Curso Técnico em Eletromecânica
+	Entidade: Escola Técnica SENAI Santo Amaro
+
+2012 	Curso em Isolamento Térmico. 
+	Entidade: Escola Técnica SENAI Cabo
+	
+
+______________________________________________________________________________________
+Cursos de extenção
+
+2015	Métodos Ágeis(Scrum)
+	Entidade: Faculdade dos Guararapes
+
+2015	Microcontrolador e Robótica
+	Entidade: Faculdade dos Guararapes
+
+2015	Introdução a Conexão Android / Web Service
+	Entidade: Faculdade dos Guararapes
+
+2015	Hospedagem de Site, Noções Básicas de Configuração
+	Entidade: Faculdade dos Guararapes
+
+2015	Introdução a Programação de Aplicativos para Windows Phone e Windows 8
+	Entidade: Faculdade dos Guararapes
+
+2015	Comandos Básicos de Cisco
+	Entidade: Faculdade dos Guararapes
+
+
+______________________________________________________________________________________
+Experiência profissional
+
+ 	Fibrasa Nordeste S/A
+	Cargo: Eletricista Júnior 4
+	Maio de 2014 até Março de 2016
+
+ 	Fibrasa Nordeste S/A
+	Cargo: Estágio em Eletricista Industrial
+	Outubro 2013 até Abril 2014 
+
+	Fibrasa Nordeste S/A
+	Cargo: Estágio em Mecânica Industrial
+	Abril de 2013 até Outubro 2013
+
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
